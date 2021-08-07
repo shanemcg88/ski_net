@@ -33,7 +33,6 @@ namespace Core.Specifications
                     default:
                         AddOrderBy(n => n.Name);
                         break;
-                    Console.WriteLine("did this work?");
                 }
             }
         }

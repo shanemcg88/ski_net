@@ -34,6 +34,7 @@ namespace Core.Specifications
                         AddOrderBy(n => n.Name);
                         break;
                 }
+                Console.WriteLine("only testing");
             }
         }
 
